@@ -1,0 +1,4 @@
+# A Modelfile is the blueprint to create and share customized models using Ollama.
+# Reference documentation: https://docs.ollama.com/modelfile#modelfile-reference
+
+PARAMETER temperature 0
